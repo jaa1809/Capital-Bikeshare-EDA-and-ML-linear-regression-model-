@@ -2,6 +2,18 @@
 Bikeshare company Data analysis
 Report on User Behavior and Demand Prediction for Capital Bikeshare
 
+TECHNOLOGIES USED:
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches  
+import seaborn as sns
+from scipy import stats
+import datetime as datetime
+sklearn
+LinearRegression
+
+
 Overview of Capital Bikeshare
 Capital Bikeshare operates across the Metro DC area with over 7,000 bikes and 700+ stations in 8 jurisdictions, including Washington, DC; Arlington, VA; Alexandria, VA; Montgomery, MD; Prince George's County, MD; Fairfax County, VA; the City of Fairfax, VA; and the City of Falls Church, VA. Their mission is to expand bikeshare access, create safer and healthier communities, and celebrate the diversity of the region.
 
