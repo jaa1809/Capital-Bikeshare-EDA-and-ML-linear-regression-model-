@@ -2,16 +2,16 @@
 Bikeshare company Data analysis
 Report on User Behavior and Demand Prediction for Capital Bikeshare
 
-TECHNOLOGIES USED:
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import matplotlib.patches as mpatches  
-import seaborn as sns
-from scipy import stats
-import datetime as datetime
-sklearn
-LinearRegression
+<p>TECHNOLOGIES USED:</p>
+<p> import numpy as np </p>
+<p> import pandas as pd </p>
+<p> import matplotlib.pyplot as plt </p>
+<p> import matplotlib.patches as mpatches </p>
+<p> import seaborn as sns </p>
+<p> from scipy import stats </p>
+<p> import datetime as datetime </p>
+<p> sklearn </p>
+<p> LinearRegression </p>
 
 
 Overview of Capital Bikeshare
